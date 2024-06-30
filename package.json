@@ -1,0 +1,16 @@
+{
+  "name": "markdown-to-html-converter",
+  "version": "1.0.0",
+  "description": "This project provides a command-line interface (CLI) tool for converting Markdown files to HTML using Node.js.",
+  "main": "convert.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^12.1.0",
+    "marked": "^13.0.1"
+  }
+}
